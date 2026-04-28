@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## 🎬 Chạy Ứng Dụng Streamlit Cục Bộ
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 ## 📊 Dữ Liệu
