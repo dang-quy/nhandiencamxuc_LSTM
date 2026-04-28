@@ -16,20 +16,6 @@ Bạn có thể test hệ thống nhận diện cảm xúc từ giọng nói qua
 
 Chỉ cần upload file âm thanh (định dạng: WAV, MP3, OGG) và hệ thống sẽ tự động phân loại cảm xúc.
 
-## 📁 Cấu Trúc Dự Án
-```
-nhandiencamxuc_LSTM/
-├── README.md
-├── requirements.txt
-├── model/
-├── data/
-├── src/
-│   ├── feature_extraction.py
-│   ├── model.py
-│   └── preprocessing.py
-└── streamlit_app.py
-```
-
 ## 🛠️ Yêu Cầu Kỹ Thuật
 - Python 3.7+
 - TensorFlow/Keras
